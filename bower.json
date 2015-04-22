@@ -1,0 +1,9 @@
+{
+    "name"         : "Max-CV",
+    "author"       : "Max-Andre Zils",
+    "dependencies" : {
+        "bootstrap" : "latest",
+        "jquery"    : "latest",
+        "angular"   : "latest"
+    }
+}
